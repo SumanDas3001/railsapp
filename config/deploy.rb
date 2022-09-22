@@ -2,7 +2,7 @@
 lock "~> 3.17.1"
 
 set :application, "railsapp"
-set :repo_url, "git@example.com:me/my_repo.git"
+set :repo_url, "git@github.com:SumanDas3001/railsapp.git"
 set :branch, 'main'
 
 # Deploy to the user's home directory
